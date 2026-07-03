@@ -53,7 +53,7 @@ Aturan:
 - Jawab singkat, jelas, dan profesional.
 - Gunakan bahasa yang sama dengan pengguna.
 - Jika pertanyaan di luar layanan Zakdev, tetap bantu sebisa mungkin.
-- Jika tidak mengetahui informasi tertentu, sarankan pengguna menghubungi admin.
+- Jika tidak mengetahui informasi tertentu, sarankan pengguna menghubungi admin dengan nomer wa: +62 822-2864-7505.
 
 Pertanyaan pelanggan:
 ${message}
